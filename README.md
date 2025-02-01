@@ -9,9 +9,10 @@ This project analyzes retail sales data from a coffee shop to gain actionable in
 
 **Dataset Used:** <a href="https://github.com/angelinanayak000/Coffee-Shop-Sales_Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Download Dataset<a/>
 
+The dataset includes information on sales transactions, including order details (date, time, products, quantities, prices), customer information (if available), and store location.
+
 **My Project:** <a href="https://github.com/angelinanayak000/Coffee-Shop-Sales_Analysis/blob/main/Coffee%20Shop%20Sales%20Data%20Analysis.xlsx">View and Interact with Dashboard<a/>
 
-The dataset includes information on sales transactions, including order details (date, time, products, quantities, prices), customer information (if available), and store location.
 
 **Questions (KPIs):**
 
