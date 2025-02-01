@@ -18,7 +18,7 @@ The dataset includes information on sales transactions, including order details 
 
 *   **How do sales vary by day of the week and hour of the day?**
     *   Sales peak during morning hours (6-10 AM) and again in the evening (6 PM to 8 PM).
-    *   Friday and Saturday have the highest order volume.
+    *   Monday, Thursday, Friday has the highest order volume.
 
 *   **Are there any peak times for sales activity?**
     *   Yes, peak sales times are observed between 6-10 AM and 6 PM - 8 PM.
@@ -84,7 +84,7 @@ The dataset includes information on sales transactions, including order details 
 **Insights:**
 
 *   **Peak Sales Times:** Sales peak during morning hours (6-10 AM) and again in the evening (6 PM to 8 PM).
-*   **Weekday Sales:** Friday and Saturday have the highest order volume.
+*   **Weekday Sales:**  Monday, Thursday, Friday have the highest order volume.
 *   **Monthly Sales:** Highest in June - $1,63, 835
 *   **Top Selling Products:** 
     *   Barista Espresso
